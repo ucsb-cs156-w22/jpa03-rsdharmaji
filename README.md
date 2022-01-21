@@ -1,10 +1,16 @@
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-rsdharmaji/branch/main/graph/badge.svg?token=hoqMJVZGaf)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-rsdharmaji)
+
+# link to repo
+https://github.com/ucsb-cs156-w22/jpa03-rsdharmaji
+
+
 # demo-spring-react-example: dsre
 
 
+
 Storybook is here:
-* Production: <https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs/>
-* QA:  <https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs-qa/>
+* Production: <https://ucsb-cs156-w22.github.io/jpa03-rsdharmaji-docs/>
+* QA:  <https://ucsb-cs156-w22.github.io/jpa03-rsdharmaji-docs-qa/>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
